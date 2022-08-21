@@ -29,7 +29,7 @@ row-gap: 30px;
 }
 a{
     padding: 20px;
-    color: #0A6347;
+    color: #315659;
 }
 a:hover{
     color: #2E0014;
@@ -72,7 +72,7 @@ a:hover{
 .grid-item9 {
     grid-column: 1/span2;
     grid-row: 2;
-    background-color: #2E0014;
+    background-color: #315659;
     color: antiquewhite;
     margin-right: 150px;
 }
@@ -84,7 +84,7 @@ img {
     margin-right: auto;
 }
 h2{
-    border-color: #0A6347;
+    border-color: #315659;
     border-style: ridge;
     padding-left: 40px;
     border-radius: 5%;
